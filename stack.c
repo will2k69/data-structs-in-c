@@ -6,7 +6,7 @@ typedef struct NO
     int valorUsuario;
     struct NO *proximo;
 }no;
-
+//OPA
 typedef struct Pilha
 {
     no *topo;
